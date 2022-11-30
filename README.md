@@ -6,7 +6,7 @@ SimSCG predicts the systole and diastole blood pressure utilizing the sensor dat
 
 ## How to run?
 ```sh
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 python3 main_plot.py
 ```
 
